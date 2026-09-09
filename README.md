@@ -1,2 +1,5 @@
 # rsschool-cv
-CV_Volozhin
+
+My CV
+
+🔗 [View deployed CV](https://evgeniyvolozhin.github.io/rsschool-cv/)
