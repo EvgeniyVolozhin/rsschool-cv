@@ -10,3 +10,16 @@
 
 ## О себе
 [Я фронтенд разработчик с 2-х летним опытом, хочу попробовать еще немного поучится, надеюсь получить дополнительные знания]
+
+## Навыки
+- **Languages:** JavaScript, HTML5, CSS3
+- **Tools:** Git, GitHub, VS Code
+- **Other:** Vue JS, React, Node.js
+
+## Пример кода
+
+
+```javascript
+function sum(a, b) {
+  return a + b;
+}
